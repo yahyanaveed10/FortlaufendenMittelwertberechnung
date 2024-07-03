@@ -1,0 +1,4 @@
+([('main',
+   '/Users/yahyanaveed10/PycharmProjects/Fortlaufenden '
+   'Mittelwertberechnung/dist/main',
+   'EXECUTABLE')],)
